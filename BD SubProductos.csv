@@ -1,0 +1,5 @@
+SubProducto,Operación,Nº Estación,Tiempo de procesado,Tiempo llegada estación
+SubProducto1,Atornillar,1,2,3
+SubProducto2,Colocar,2,3,1
+SubProducto3,Martillar,3,4,1
+SubProducto4,Pintar,2,5,1
